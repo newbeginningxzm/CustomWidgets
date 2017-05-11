@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paragon.unionpay.com.viewsystem.StepScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <TextView
+        style="@style/default_tv"
+        android:text="I am Page 1!"
+        />
+
+    <TextView
+        style="@style/default_tv"
+        android:text="I am Page 2!"
+        />
+
+    <TextView
+        style="@style/default_tv"
+        android:text="I am Page 3!"
+        />
+
+    <TextView
+        style="@style/default_tv"
+        android:text="I am Page 4!"
+        />
+
+    <TextView
+        style="@style/default_tv"
+        android:text="I am Page 5!"
+        />
+
+    <TextView
+        style="@style/default_tv"
+        android:text="I am Page 6!"
+        />
+
+    <TextView
+        style="@style/default_tv"
+        android:text="I am Page 7!"
+        />
+
+</paragon.unionpay.com.viewsystem.StepScrollView>
